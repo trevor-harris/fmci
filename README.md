@@ -1,2 +1,1 @@
-# fmci
-functional multiple change point isolation
+# l1fcp
